@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Lab 11</string>
+    <string name="obesity">go get more exercises</string>
+    <string name="thin">go get some exercises</string>
+    <string name="fat">stop eating cheese burgers</string>
+    <string name="healthy">keep training hard</string>
 </resources>
